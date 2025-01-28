@@ -1,2 +1,2 @@
 # Interview-Questions-Solutions
-These are solutions of LeetCode official curated list of Top classic interview questions
+These are solutions to LeetCode's official curated list of the top classic interview questions🔝.
